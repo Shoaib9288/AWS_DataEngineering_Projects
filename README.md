@@ -12,5 +12,5 @@
 <img align="center" alt="coding" width="500" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/stock-market-kafka-data-engineering-project/Stock%20Market%20Analysis.gif">
 
 ## 3. Youtube-Videos-Analytics
-## URL: 
+## URL: https://bitly.ws/39Wvc
 <img align="center" alt="coding" width="500" src="">
