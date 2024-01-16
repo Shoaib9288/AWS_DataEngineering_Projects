@@ -1,11 +1,11 @@
 # Spotify ETL End-To-End Pipeline Project
-<img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/spotify-etl-aws-data-pipeline-project/Spotify.gif">
+<img align="center" alt="coding" width="500" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/spotify-etl-aws-data-pipeline-project/Spotify_Analytics.JPG">
 
 ## Overview
 Welcome to the repository for an ETL pipeline that extracts data from the Spotify API, transforms it, and loads it into AWS. This pipeline provides a comprehensive end-to-end solution for retrieving and analyzing music data from Spotify.
 
 ## Architecture
-![logo](https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/spotify-etl-aws-data-pipeline-project/Snapshots/Architecture.jpeg)
+<img align="center" alt="coding" width="900" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/spotify-etl-aws-data-pipeline-project/Snapshots/Architecture.jpeg">
 
 ## About Spotify API
 The Spotify API is a web-based platform that provides developers with access to Spotify's music data and services. It allows developers to build applications that can interact with Spotify's music streaming platform, enabling users to browse and play music, manage playlists, search for songs, and access metadata about artists, albums, and tracks.
