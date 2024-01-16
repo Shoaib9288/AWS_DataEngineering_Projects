@@ -5,3 +5,13 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 # Architecture
 ![logo](https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/stock-market-kafka-data-engineering-project/Snapshots/Architecture.jpg)
+
+# Technology Used
+Programming Language - Python
+Amazon Web Service (AWS)
+S3 (Simple Storage Service)
+Athena
+Glue Crawler
+Glue Catalog
+EC2
+Apache Kafka
