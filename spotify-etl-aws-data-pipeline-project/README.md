@@ -20,10 +20,12 @@ AWS Athena: Amazon Athena is an interactive query service provided by Amazon Web
 Data Catalog: The Data Catalog is a central repository that stores metadata about data sources, tables, and transforms, which can be queried and managed by other AWS services, such as Athena and EMR.
 
 ## Install Packages
+```
 pip install pandas
 pip install boto3
 pip install spotipy
 pip install numpy
+```
 
 ## Execution Flow
 The project extracts data through the Spotify API.
