@@ -19,7 +19,7 @@ AWS Lambda: AWS Lambda is a serverless computing service provided by Amazon Web 
 AWS Athena: Amazon Athena is an interactive query service provided by Amazon Web Services (AWS) that makes it easy to analyze data stored in Amazon S3 using standard SQL. It allows users to quickly and easily query data without having to set up and manage complex infrastructure or data warehousing tools.
 Data Catalog: The Data Catalog is a central repository that stores metadata about data sources, tables, and transforms, which can be queried and managed by other AWS services, such as Athena and EMR.
 
-##Install Packages
+## Install Packages
 pip install pandas
 pip install boto3
 pip install spotipy
