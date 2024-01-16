@@ -1,5 +1,5 @@
 # AWS_DataEngineering_Projects
-<img align="center" alt="coding" width="300" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/Amazon%20Web%20Services.gif">
+<img align="center" alt="coding" width="400" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/Amazon%20Web%20Services.gif">
 
 - This repository describes AWS data engineering projects and its key components
 
