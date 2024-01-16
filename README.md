@@ -1,5 +1,7 @@
 # AWS_DataEngineering_Projects
-This repository gives the description of AWS data engineering projects and its key components
+<img align="center" alt="coding" width="500" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/Amazon%20Web%20Services.gif">
+
+- This repository describes AWS data engineering projects and its key components
 
 ## 1. Stock-Market-Analysis
 ## URL: https://rb.gy/k4hait
