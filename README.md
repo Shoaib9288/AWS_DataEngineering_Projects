@@ -11,6 +11,11 @@
 #### URL: https://rb.gy/k4hait
 <img align="center" alt="coding" width="500" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Images_GIF/Stock%20Market%20Analysis.gif">
 
-## 3. Youtube-Videos-Analytics
+## 3. Twitter-Data-Analytics
+#### URL: https://bitly.ws/3a4Nt
+<img align="center" alt="coding" width="500" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Images_GIF/Twitter.gif">
+
+## 4. Youtube-Videos-Analytics
 #### URL: https://bitly.ws/39Wvc
 <img align="center" alt="coding" width="500" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Images_GIF/Youtube%20Video%20Analytics.gif">
+
