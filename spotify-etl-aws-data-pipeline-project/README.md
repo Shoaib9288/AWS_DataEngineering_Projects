@@ -1,5 +1,5 @@
 # Spotify ETL End-To-End Pipeline Project
-<img align="center" alt="coding" width="500" src="https://github.com/Shoaib9288/AWS_DataEngineering_Projects/blob/main/spotify-etl-aws-data-pipeline-project/Spotify_Analytics.JPG">
+<img align="center" alt="coding" width="500" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Images_GIF/Spotify_Analytics.JPG">
 
 ## Overview
 Welcome to the repository for an ETL pipeline that extracts data from the Spotify API, transforms it, and loads it into AWS. This pipeline provides a comprehensive end-to-end solution for retrieving and analyzing music data from Spotify.
